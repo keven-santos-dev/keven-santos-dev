@@ -14,9 +14,9 @@ Desenvolvedor Backend com mais de 3 anos de experiência em sistemas em produç�
 - Mensageria com Apache Kafka
 
 ## 🛠️ Tecnologias
-**Backend:** PHP · Zend Framework · Java · Spring Boot
-**Banco de dados:** PostgreSQL · MySQL · SQL
-**Ferramentas:** Git · Linux · Docker · Postman
+- **Backend:** PHP · Zend Framework · Java · Spring Boot
+- **Banco de dados:** PostgreSQL · MySQL · SQL
+- **Ferramentas:** Git · Linux · Docker · Postman
 
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/keven-santos-dev/)
